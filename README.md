@@ -1,2 +1,2 @@
-# Natural-Language-Processing
-LDA Topic Modeling Project
+# LDA-Topic-Modeling
+Natural Language Processing Project
